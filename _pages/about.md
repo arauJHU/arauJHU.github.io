@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Aaditya Rau
-
 I am a researcher working in computational mechanics and materials modeling, with a focus on coupled chemo-mechanical processes in heterogeneous solids and extreme environments.
 
 ---
